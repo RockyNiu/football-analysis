@@ -1,14 +1,4 @@
-# NextJS-FastAPI Fullstack Template
-This project is a fullstack template combining [Next.js](https://nextjs.org/) for the frontend and [FastAPI](https://fastapi.tiangolo.com/) for the backend. Both components are containerized using Docker for easy deployment and development.
-
-## Features
-- Next.js Frontend: A React-based framework for building user interfaces
-- FastAPI Backend: A modern, fast Python web framework for building APIs
-- Database: MySQL in docker, with [SQLAlchemy](https://www.sqlalchemy.org/) ORM, [Alembic](https://alembic.sqlalchemy.org/) for migrations
-- Docker Integration: Containerized setup for both frontend and backend
-- Testing: Pytest for backend unit tests
-- Linting & Formatting: [Ruff](https://github.com/astral-sh/ruff) for Backend and [Prettier](https://prettier.io/) for Frontend
-- [Optional] Pre-commit Hooks: [Pre-commit](https://pre-commit.com/) for running linters and formatting checks before commits
+# AI/ML Football Analysis System with YOLO
 
 ## Prerequisites
 - Docker and Docker Compose installed on your system
