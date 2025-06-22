@@ -1,0 +1,5 @@
+#containers
+.mysql.cache
+
+#VSCode
+.vscode/
