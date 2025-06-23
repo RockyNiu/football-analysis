@@ -11,11 +11,14 @@ python = "^3.13"
 alembic = "^1.13.1"
 faker = "^25.6.0"
 ultralytics = "^8.3.158"
+roboflow = "^1.1.66"
+python-dotenv = "^1.1.0"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.7.0"
 pytest = "^7.4.0"
 ruff = "^0.3.4"
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]

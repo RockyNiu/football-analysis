@@ -1,6 +1,10 @@
 # AI
 
-- install
+## Reqirements
+- ultralytics # object detection
+- roboflow # annotation dataset
+
+## install
   ```bash
   brew install pipx # install pipx.
   pipx install poetry # install poetry 

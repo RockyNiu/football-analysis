@@ -3,6 +3,9 @@ videos/
 results/
 *.pt
 
+# Training datasets and related files
+**/*-detection-*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
